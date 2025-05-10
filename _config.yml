@@ -14,32 +14,32 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: The AI Journal # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Navigating University Life as an AI & Big Data Student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal chronicle documenting my academic journey, projects, challenges, and insights while pursuing an AI & Big Data degree. Follow along as I explore cutting-edge concepts, share practical learning experiences, and reflect on the rapidly evolving world of data science and artificial intelligence.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://hossain-murad.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: https://github.com/hossain-murad # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: https://x.com/HossainMurad_X # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Hossain Murad
+  email: hossainmurad.work@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/HossainMurad_X # change to your Twitter homepage
+    - https://github.com/hossain-murad # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/495630400_2419634818393456_5456231979912306951_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=H34hcHOO3xIQ7kNvwFbwZKr&_nc_oc=AdkQHx-MMIGdkVqJNwxUUrtNHHV8VFcuQH7Q65xZuyIjlqIvgO4R-uV10POGGkYfUKQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=z_mq5CHGsRphG3-MppMeFg&oh=00_AfJwH5nnex9wfQs3q366tmyoKQHuhtKJLDEthBacJySSIQ&oe=68249DD7
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
