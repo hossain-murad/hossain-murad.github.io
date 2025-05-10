@@ -1,6 +1,9 @@
 ---
 categories: [Blogging, Tutorial]
 tags: [getting started, jekyll]
+image:
+  path: /assets/img/my-image.png
+  alt: "Cover image for Emacs talk"
 ---
 
 ## Hello World!
