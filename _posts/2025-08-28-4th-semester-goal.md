@@ -1,6 +1,9 @@
 ---
 categories: [Blog, Planning]
 tags: [University, Study]
+image:
+  path: /assets/img/Goal.png
+  alt: ""
 ---
 
 ## 4th Semester Plan
