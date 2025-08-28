@@ -1,5 +1,5 @@
 ---
-categories: [Blogging, Tutorial]
+categories: [Blog, Tutorial]
 tags: [getting started, jekyll]
 image:
   path: /assets/img/my-image.png
