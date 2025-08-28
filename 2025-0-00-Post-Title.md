@@ -2,7 +2,7 @@
 categories: [Blog, Planning]
 tags: [University, Study]
 image:
-  path: /assets/img/example.png
+  path: /assets/img/Goal.png
   alt: ""
 ---
 
@@ -10,5 +10,5 @@ image:
 
 Content.
 
-![Image]({{ "/assets/img/example.png" | relative_url }})
+![Image]({{ "/assets/img/Goal.png" | relative_url }})
 
